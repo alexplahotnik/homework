@@ -23,9 +23,11 @@ from typing import Callable
 
 def cache(func: Callable) -> Callable:
     """Return function, so the every call to initial function should be cached"""
-
+    global cash
+    cash = {}
     def cash_func(*args):
-        hash(func(*args))
+        if cash.get(args):
+            cash[args] = func(*args)
         return func(*args)
 
     return cash_func
