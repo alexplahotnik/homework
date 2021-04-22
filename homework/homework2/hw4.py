@@ -27,8 +27,9 @@ def cache(func: Callable) -> Callable:
     cash = {}
 
     def cash_func(*args):
-        if cash.get(args):
-            cash[args] = func(*args)
-        return func(*args)
+        key = hash(args)
+        if not cash.get(key):
+            cash[key] = func(*args)
+        return cash[key]
 
     return cash_func
