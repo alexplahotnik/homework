@@ -7,6 +7,7 @@ def my_decorator(wrapped):
         wrapper.__doc__ = wrapped.__doc__
         wrapper.__original_func = wrapped
         return wrapper
+
     return update_wrapper
 
 
@@ -17,6 +18,7 @@ def print_result(func):
         result = func(*args, **kwargs)
         print(result)
         return result
+
     return wrapper
 
 
