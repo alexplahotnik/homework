@@ -26,7 +26,6 @@ class Student:
             return homework_obj
         else:
             print("You are late")
-            pass
 
 
 class Teacher:
