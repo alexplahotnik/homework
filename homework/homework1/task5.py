@@ -9,9 +9,9 @@ def find_maximal_subarray_sum(nums: List[int], k: int) -> int:
     for sub_array_length in range(0, k + 1):
         for index, value in enumerate(nums):
             try:
-                if result < sum(nums[index: (index + sub_array_length)]):
-                    result = sum(nums[index: (index + sub_array_length)])
-                    sub_array = nums[index: (index + sub_array_length)]
+                if result < sum(nums[index : (index + sub_array_length)]):
+                    result = sum(nums[index : (index + sub_array_length)])
+                    sub_array = nums[index : (index + sub_array_length)]
             except IndexError:
                 break
     return result
