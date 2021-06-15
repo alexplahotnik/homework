@@ -7,9 +7,8 @@ from homework.homework4.hw1 import read_magic_number
 
 def test_number_from_1to3():
     path = "homework/homework4/test.txt"
-    f = open(path, "w")
-    f.write("2.6\nHello world")
-    f.close()
+    with open(path, "w") as f:
+        f.write("2.6\nHello world")
     result = read_magic_number(path)
     os.remove(path)
     assert result
@@ -17,9 +16,8 @@ def test_number_from_1to3():
 
 def test_number_not_in_13():
     path = "homework/homework4/test.txt"
-    f = open(path, "w")
-    f.write("14")
-    f.close()
+    with open(path, "w") as f:
+        f.write("14")
     result = read_magic_number(path)
     os.remove(path)
     assert not result
@@ -27,12 +25,11 @@ def test_number_not_in_13():
 
 def test_not_number():
     path = "homework/homework4/test.txt"
-    f = open(path, "w")
-    f.write("Im not a number\n2")
-    f.close()
-    result = read_magic_number(path)
+    with open(path, "w") as f:
+        f.write("Im not a number\n2")
+    with pytest.raises(ValueError):
+        read_magic_number(path)
     os.remove(path)
-    assert not result
 
 
 def test_file_not_exist():

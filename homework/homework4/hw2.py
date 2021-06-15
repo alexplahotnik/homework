@@ -16,8 +16,4 @@ class Count:
 
     def count_dots_on_i(self, url: str) -> int:
         html_text = self._get_html(url)
-        count = 0
-        for symbol in html_text:
-            if symbol == "i":
-                count += 1
-        return count
+        return html_text.count('i')
