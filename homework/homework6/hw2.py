@@ -103,8 +103,7 @@ class Teacher(Student):
         if len(homework_result_obj.solution) > 5:
             cls.homework_done[homework_result_obj.homework].add(homework_result_obj)
             return True
-        else:
-            return False
+        return False
 
     @classmethod
     def reset_results(cls, homework=None):
