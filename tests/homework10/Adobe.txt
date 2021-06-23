@@ -1,0 +1,2171 @@
+<div class="graviton">
+					<h2 class="header-underline">Estimates* for Adobe Inc. in USD</h2>
+
+		<div class="tab-region" data-tab-region="funds-performances">
+			<nav class="tab-region__navigation">
+				<div class="tab" data-tab="funds-performances">
+					<ul class="tab__list">
+						<li class="tab__item" data-tab-item="yearly">Yearly</li>
+						<li class="tab__item" data-tab-item="quarterly">Quarterly</li>
+					</ul>
+				</div>
+			</nav>
+
+			<div class="tab-region__container">
+					<div class="grid--vertical-scrolling tab-region__content" data-tab-region-content="yearly">
+		<table class="table table--fixed table--suppresses-line-breaks table--col-2-text-align-right table--col-3-text-align-right table--col-4-text-align-right table--col-5-text-align-right table--col-6-text-align-right">
+			<thead class="table__thead">
+				<tr class="table__tr">
+					<th class="table__th">&nbsp;</th>
+							<th class="table__th text-right">2021</th>
+							<th class="table__th text-right">2022</th>
+							<th class="table__th text-right">2023</th>
+							<th class="table__th text-right">2024</th>
+							<th class="table__th text-right">2025</th>
+
+				</tr>
+			</thead>
+			<tbody class="table__tbody">
+					<tr class="table__tr">
+						<td class="table__td black" width="25%">Revenue</td>
+
+								<td width="15%" class="table__td text-right" >
+									15,492
+								</td>
+								<td width="15%" class="table__td text-right" >
+									17,752
+								</td>
+								<td width="15%" class="table__td text-right" >
+									20,459
+								</td>
+								<td width="15%" class="table__td text-right" >
+									20,919
+								</td>
+								<td width="15%" class="table__td text-right" >
+									25,734
+								</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td black" width="25%">Dividend</td>
+
+								<td width="15%" class="table__td text-right" >
+									0.00
+								</td>
+								<td width="15%" class="table__td text-right" >
+									0.00
+								</td>
+								<td width="15%" class="table__td text-right" >
+									0.00
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td black" width="25%">Dividend Yield (in %)</td>
+
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td black" width="25%">EPS</td>
+
+								<td width="15%" class="table__td text-right" >
+									11.87
+								</td>
+								<td width="15%" class="table__td text-right" >
+									13.68
+								</td>
+								<td width="15%" class="table__td text-right" >
+									15.93
+								</td>
+								<td width="15%" class="table__td text-right" >
+									16.48
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td black" width="25%">P/E Ratio</td>
+
+								<td width="15%" class="table__td text-right" >
+									45.09
+								</td>
+								<td width="15%" class="table__td text-right" >
+									39.14
+								</td>
+								<td width="15%" class="table__td text-right" >
+									33.61
+								</td>
+								<td width="15%" class="table__td text-right" >
+									32.49
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td black" width="25%">EBIT</td>
+
+								<td width="15%" class="table__td text-right" >
+									6,890
+								</td>
+								<td width="15%" class="table__td text-right" >
+									7,960
+								</td>
+								<td width="15%" class="table__td text-right" >
+									9,294
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td black" width="25%">EBITDA</td>
+
+								<td width="15%" class="table__td text-right" >
+									7,517
+								</td>
+								<td width="15%" class="table__td text-right" >
+									8,677
+								</td>
+								<td width="15%" class="table__td text-right" >
+									9,850
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td black" width="25%">Net Profit</td>
+
+								<td width="15%" class="table__td text-right" >
+									5,713
+								</td>
+								<td width="15%" class="table__td text-right" >
+									6,561
+								</td>
+								<td width="15%" class="table__td text-right" >
+									7,690
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td black" width="25%">Net Profit Adjusted</td>
+
+								<td width="15%" class="table__td text-right" >
+									5,713
+								</td>
+								<td width="15%" class="table__td text-right" >
+									6,561
+								</td>
+								<td width="15%" class="table__td text-right" >
+									7,690
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td black" width="25%">Pre-Tax Profit</td>
+
+								<td width="15%" class="table__td text-right" >
+									6,793
+								</td>
+								<td width="15%" class="table__td text-right" >
+									7,896
+								</td>
+								<td width="15%" class="table__td text-right" >
+									9,253
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td black" width="25%">Net Profit (Adjusted)</td>
+
+								<td width="15%" class="table__td text-right" >
+									5,379
+								</td>
+								<td width="15%" class="table__td text-right" >
+									6,183
+								</td>
+								<td width="15%" class="table__td text-right" >
+									7,406
+								</td>
+								<td width="15%" class="table__td text-right" >
+									8,273
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td black" width="25%">EPS (Non-GAAP) ex. SOE</td>
+
+								<td width="15%" class="table__td text-right" >
+									9.92
+								</td>
+								<td width="15%" class="table__td text-right" >
+									11.66
+								</td>
+								<td width="15%" class="table__td text-right" >
+									13.97
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td black" width="25%">EPS (GAAP)</td>
+
+								<td width="15%" class="table__td text-right" >
+									9.18
+								</td>
+								<td width="15%" class="table__td text-right" >
+									10.58
+								</td>
+								<td width="15%" class="table__td text-right" >
+									12.31
+								</td>
+								<td width="15%" class="table__td text-right" >
+									13.79
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td black" width="25%">Gross Income</td>
+
+								<td width="15%" class="table__td text-right" >
+									13,839
+								</td>
+								<td width="15%" class="table__td text-right" >
+									15,842
+								</td>
+								<td width="15%" class="table__td text-right" >
+									18,277
+								</td>
+								<td width="15%" class="table__td text-right" >
+									18,616
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td black" width="25%">Cash Flow from Investing</td>
+
+								<td width="15%" class="table__td text-right" >
+									-1,933
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-606
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-893
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td black" width="25%">Cash Flow from Operations</td>
+
+								<td width="15%" class="table__td text-right" >
+									6,656
+								</td>
+								<td width="15%" class="table__td text-right" >
+									7,711
+								</td>
+								<td width="15%" class="table__td text-right" >
+									9,074
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td black" width="25%">Cash Flow from Financing</td>
+
+								<td width="15%" class="table__td text-right" >
+									-2,875
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-2,128
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-3,252
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td black" width="25%">Cash Flow per Share</td>
+
+								<td width="15%" class="table__td text-right" >
+									13.60
+								</td>
+								<td width="15%" class="table__td text-right" >
+									15.91
+								</td>
+								<td width="15%" class="table__td text-right" >
+									17.78
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td black" width="25%">Free Cash Flow</td>
+
+								<td width="15%" class="table__td text-right" >
+									6,357
+								</td>
+								<td width="15%" class="table__td text-right" >
+									7,355
+								</td>
+								<td width="15%" class="table__td text-right" >
+									8,763
+								</td>
+								<td width="15%" class="table__td text-right" >
+									10,488
+								</td>
+								<td width="15%" class="table__td text-right" >
+									12,061
+								</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td black" width="25%">Free Cash Flow per Share</td>
+
+								<td width="15%" class="table__td text-right" >
+									13.24
+								</td>
+								<td width="15%" class="table__td text-right" >
+									15.48
+								</td>
+								<td width="15%" class="table__td text-right" >
+									18.91
+								</td>
+								<td width="15%" class="table__td text-right" >
+									21.54
+								</td>
+								<td width="15%" class="table__td text-right" >
+									24.52
+								</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td black" width="25%">Book Value per Share</td>
+
+								<td width="15%" class="table__td text-right" >
+									32.31
+								</td>
+								<td width="15%" class="table__td text-right" >
+									41.14
+								</td>
+								<td width="15%" class="table__td text-right" >
+									52.28
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td black" width="25%">Net Debt</td>
+
+								<td width="15%" class="table__td text-right" >
+									-670
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-3,199
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-13,007
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td black" width="25%">Research & Development Exp.</td>
+
+								<td width="15%" class="table__td text-right" >
+									2,116
+								</td>
+								<td width="15%" class="table__td text-right" >
+									2,414
+								</td>
+								<td width="15%" class="table__td text-right" >
+									2,811
+								</td>
+								<td width="15%" class="table__td text-right" >
+									2,875
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td black" width="25%">Capital Expenditure</td>
+
+								<td width="15%" class="table__td text-right" >
+									390
+								</td>
+								<td width="15%" class="table__td text-right" >
+									479
+								</td>
+								<td width="15%" class="table__td text-right" >
+									561
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td black" width="25%">Selling, General & Admin. Exp.</td>
+
+								<td width="15%" class="table__td text-right" >
+									4,963
+								</td>
+								<td width="15%" class="table__td text-right" >
+									5,744
+								</td>
+								<td width="15%" class="table__td text-right" >
+									6,605
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td black" width="25%">Shareholder’s Equity</td>
+
+								<td width="15%" class="table__td text-right" >
+									15,612
+								</td>
+								<td width="15%" class="table__td text-right" >
+									20,943
+								</td>
+								<td width="15%" class="table__td text-right" >
+									24,091
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td black" width="25%">Total Assets</td>
+
+								<td width="15%" class="table__td text-right" >
+									27,876
+								</td>
+								<td width="15%" class="table__td text-right" >
+									33,235
+								</td>
+								<td width="15%" class="table__td text-right" >
+									36,874
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+								<td width="15%" class="table__td text-right" >
+									-
+								</td>
+					</tr>
+			</tbody>
+		</table>
+	</div>
+
+				<div class="grid--vertical-scrolling tab-region__content" data-tab-region-content="quarterly">
+
+
+
+
+<table class="table">
+	<colgroup>
+		<col class="width-10-vw width-auto-s-percent">
+		<col class="width-10-percent width-auto-s-percent">
+		<col class="width-10-percent width-auto-s-percent">
+		<col class="width-10-percent width-auto-s-percent">
+		<col class="width-10-percent width-auto-s-percent">
+		<col class="width-10-percent width-auto-s-percent">
+	</colgroup>
+		<thead class="table__thead">
+			<tr class="table__tr">
+				<th class="table__th" style="width: 15%">&nbsp;</th>
+				<th class="table__th text-right">
+					Previous Quarter <br/> ending 02/28/21
+				</th>
+				<th class="table__th text-right">
+					Current Quarter <br/> ending 05/31/21
+				</th>
+				<th class="table__th text-right">
+					Next Quarter <br/> ending 08/31/21
+				</th>
+				<th class="table__th text-right">
+					Current Year <br/> ending 11/30/16
+				</th>
+				<th class="table__th text-right">
+					Next Year <br/> ending 11/30/17
+				</th>
+			</tr>
+		</thead>
+		<tbody class="table__tbody">
+				<tr class="table__tr table__tr--no-vertical-border">
+					<td colspan="6" class="table__td">Earnings Estimates</td>
+				</tr>
+	<tr>
+		<td class="table__td font-color-dim-gray">No. of Analysts</td>
+		<td class="table__td text-right">
+			16
+		</td>
+		<td class="table__td text-right">
+			24
+		</td>
+		<td class="table__td text-right">
+			24
+		</td>
+		<td class="table__td text-right">
+			27
+		</td>
+		<td class="table__td text-right">
+			31
+		</td>
+	</tr>
+	<tr>
+		<td class="table__td font-color-dim-gray">Average Estimate</td>
+		<td class="table__td text-right">
+			2.787 USD
+		</td>
+		<td class="table__td text-right">
+			2.815 USD
+		</td>
+		<td class="table__td text-right">
+			2.893 USD
+		</td>
+		<td class="table__td text-right">
+			2.977 USD
+		</td>
+		<td class="table__td text-right">
+			4.217 USD
+		</td>
+	</tr>
+	<tr>
+		<td class="table__td font-color-dim-gray">Year Ago</td>
+		<td class="table__td text-right">
+			-
+		</td>
+		<td class="table__td text-right">
+			2.450 USD
+		</td>
+		<td class="table__td text-right">
+			2.570 USD
+		</td>
+		<td class="table__td text-right">
+			-
+		</td>
+		<td class="table__td text-right">
+			2.977 USD
+		</td>
+	</tr>
+	<tr>
+		<td class="table__td font-color-dim-gray">Publish Date</td>
+		<td class="table__td text-right">
+			3/23/2021
+		</td>
+		<td class="table__td text-right">
+			6/17/2021
+		</td>
+		<td class="table__td text-right">
+			9/21/2021
+		</td>
+		<td class="table__td text-right">
+			-
+		</td>
+		<td class="table__td text-right">
+			-
+		</td>
+	</tr>
+			<tr class="table__tr table__tr--no-vertical-border">
+				<td colspan="6" class="table__td">Revenue Estimates</td>
+			</tr>
+				<tr>
+		<td class="table__td font-color-dim-gray">No. of Analysts</td>
+		<td class="table__td text-right">
+			13
+		</td>
+		<td class="table__td text-right">
+			20
+		</td>
+		<td class="table__td text-right">
+			20
+		</td>
+		<td class="table__td text-right">
+			25
+		</td>
+		<td class="table__td text-right">
+			28
+		</td>
+	</tr>
+	<tr>
+		<td class="table__td font-color-dim-gray">Average Estimate</td>
+		<td class="table__td text-right">
+			3,754 USD
+		</td>
+		<td class="table__td text-right">
+			3,726 USD
+		</td>
+		<td class="table__td text-right">
+			3,833 USD
+		</td>
+		<td class="table__td text-right">
+			5,835 USD
+		</td>
+		<td class="table__td text-right">
+			7,248 USD
+		</td>
+	</tr>
+	<tr>
+		<td class="table__td font-color-dim-gray">Year Ago</td>
+		<td class="table__td text-right">
+			-
+		</td>
+		<td class="table__td text-right">
+			3,128 USD
+		</td>
+		<td class="table__td text-right">
+			3,225 USD
+		</td>
+		<td class="table__td text-right">
+			-
+		</td>
+		<td class="table__td text-right">
+			5,835 USD
+		</td>
+	</tr>
+	<tr>
+		<td class="table__td font-color-dim-gray">Publish Date</td>
+		<td class="table__td text-right">
+			3/23/2021
+		</td>
+		<td class="table__td text-right">
+			6/17/2021
+		</td>
+		<td class="table__td text-right">
+			9/21/2021
+		</td>
+		<td class="table__td text-right">
+			-
+		</td>
+		<td class="table__td text-right">
+			-
+		</td>
+	</tr>
+
+		</tbody>
+</table>
+
+
+				</div>
+						<div class="text_right instrument-description">
+							* Average Estimates in Million (e.g. Revenue) or per share (e.g. Dividend). Source: FactSet
+						</div>
+			</div>
+		</div>
+</div>
+
+
+									<div class="spacer-50 mobile-spacer-25"></div>
+<!--#EMPTYRESPONSE#-->									<div class="spacer-50 mobile-spacer-25"></div>
+
+<div class="graviton">
+			<h2 class="header-underline">Insider Activity</h2>
+
+	<div class="grid--vertical-scrolling">
+		<table class="table table--fixed table--suppresses-line-breaks" data-table-filter-table="">
+				<colgroup>
+						<col />
+						<col />
+						<col />
+						<col />
+						<col />
+						<col />
+						<col />
+				</colgroup>
+				<thead class="table__thead">
+					<tr class="table__tr">
+							<th class="table__th"  >
+Name							</th>
+							<th class="table__th text-center"  >
+Date							</th>
+							<th class="table__th text-center"  >
+shares traded							</th>
+							<th class="table__th text-center"  >
+shares held							</th>
+							<th class="table__th text-center"  >
+Price							</th>
+							<th class="table__th text-center"  >
+type (sell/buy)							</th>
+							<th class="table__th text-center"  >
+option							</th>
+					</tr>
+				</thead>
+			<tbody class="table__tbody">
+						<tr class="table__tr">
+										<td class="table__td"  >
+											<a href="/stocks/insideractivitytrader/chen-gloria-1102694" onclick="silentTrackPI()"onclick="silentTrackPI()"><strong>Chen Gloria</strong></a>
+										</td>
+										<td class="table__td text-center"  >
+											05/29/2021
+										</td>
+										<td class="table__td text-center"  >
+											111.00
+										</td>
+										<td class="table__td text-center"  >
+											11,617.00
+										</td>
+										<td class="table__td text-center"  >
+											504.58
+										</td>
+										<td class="table__td text-center"  >
+											Sell
+										</td>
+										<td class="table__td text-center"  >
+											No
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td"  >
+											<a href="/stocks/insideractivitytrader/chen-gloria-1102694" onclick="silentTrackPI()"onclick="silentTrackPI()"><strong>Chen Gloria</strong></a>
+										</td>
+										<td class="table__td text-center"  >
+											05/29/2021
+										</td>
+										<td class="table__td text-center"  >
+											224.00
+										</td>
+										<td class="table__td text-center"  >
+											11,728.00
+										</td>
+										<td class="table__td text-center"  >
+											n/a
+										</td>
+										<td class="table__td text-center"  >
+											Buy
+										</td>
+										<td class="table__td text-center"  >
+											No
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td"  >
+											<a href="/stocks/insideractivitytrader/chen-gloria-1102694" onclick="silentTrackPI()"onclick="silentTrackPI()"><strong>Chen Gloria</strong></a>
+										</td>
+										<td class="table__td text-center"  >
+											05/24/2021
+										</td>
+										<td class="table__td text-center"  >
+											43.00
+										</td>
+										<td class="table__td text-center"  >
+											11,504.00
+										</td>
+										<td class="table__td text-center"  >
+											499.02
+										</td>
+										<td class="table__td text-center"  >
+											Sell
+										</td>
+										<td class="table__td text-center"  >
+											No
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td"  >
+											<a href="/stocks/insideractivitytrader/rao-dana-1056738" onclick="silentTrackPI()"onclick="silentTrackPI()"><strong>Rao Dana</strong></a>
+										</td>
+										<td class="table__td text-center"  >
+											05/04/2021
+										</td>
+										<td class="table__td text-center"  >
+											100.00
+										</td>
+										<td class="table__td text-center"  >
+											14,527.00
+										</td>
+										<td class="table__td text-center"  >
+											497.50
+										</td>
+										<td class="table__td text-center"  >
+											Sell
+										</td>
+										<td class="table__td text-center"  >
+											No
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td"  >
+											<a href="/stocks/insideractivitytrader/rao-dana-1056738" onclick="silentTrackPI()"onclick="silentTrackPI()"><strong>Rao Dana</strong></a>
+										</td>
+										<td class="table__td text-center"  >
+											05/04/2021
+										</td>
+										<td class="table__td text-center"  >
+											700.00
+										</td>
+										<td class="table__td text-center"  >
+											14,627.00
+										</td>
+										<td class="table__td text-center"  >
+											496.57
+										</td>
+										<td class="table__td text-center"  >
+											Sell
+										</td>
+										<td class="table__td text-center"  >
+											No
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td"  >
+											<a href="/stocks/insideractivitytrader/rao-dana-1056738" onclick="silentTrackPI()"onclick="silentTrackPI()"><strong>Rao Dana</strong></a>
+										</td>
+										<td class="table__td text-center"  >
+											05/04/2021
+										</td>
+										<td class="table__td text-center"  >
+											2,976.00
+										</td>
+										<td class="table__td text-center"  >
+											15,327.00
+										</td>
+										<td class="table__td text-center"  >
+											495.57
+										</td>
+										<td class="table__td text-center"  >
+											Sell
+										</td>
+										<td class="table__td text-center"  >
+											No
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td"  >
+											<a href="/stocks/insideractivitytrader/rao-dana-1056738" onclick="silentTrackPI()"onclick="silentTrackPI()"><strong>Rao Dana</strong></a>
+										</td>
+										<td class="table__td text-center"  >
+											05/04/2021
+										</td>
+										<td class="table__td text-center"  >
+											500.00
+										</td>
+										<td class="table__td text-center"  >
+											18,303.00
+										</td>
+										<td class="table__td text-center"  >
+											493.73
+										</td>
+										<td class="table__td text-center"  >
+											Sell
+										</td>
+										<td class="table__td text-center"  >
+											No
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td"  >
+											<a href="/stocks/insideractivitytrader/rao-dana-1056738" onclick="silentTrackPI()"onclick="silentTrackPI()"><strong>Rao Dana</strong></a>
+										</td>
+										<td class="table__td text-center"  >
+											05/04/2021
+										</td>
+										<td class="table__td text-center"  >
+											416.00
+										</td>
+										<td class="table__td text-center"  >
+											18,803.00
+										</td>
+										<td class="table__td text-center"  >
+											493.00
+										</td>
+										<td class="table__td text-center"  >
+											Sell
+										</td>
+										<td class="table__td text-center"  >
+											No
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td"  >
+											<a href="/stocks/insideractivitytrader/murphy-john-francis-761794" onclick="silentTrackPI()"onclick="silentTrackPI()"><strong>Murphy John Francis</strong></a>
+										</td>
+										<td class="table__td text-center"  >
+											04/25/2021
+										</td>
+										<td class="table__td text-center"  >
+											2,282.00
+										</td>
+										<td class="table__td text-center"  >
+											19,475.00
+										</td>
+										<td class="table__td text-center"  >
+											513.40
+										</td>
+										<td class="table__td text-center"  >
+											Sell
+										</td>
+										<td class="table__td text-center"  >
+											No
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td"  >
+											<a href="/stocks/insideractivitytrader/murphy-john-francis-761794" onclick="silentTrackPI()"onclick="silentTrackPI()"><strong>Murphy John Francis</strong></a>
+										</td>
+										<td class="table__td text-center"  >
+											04/25/2021
+										</td>
+										<td class="table__td text-center"  >
+											968.00
+										</td>
+										<td class="table__td text-center"  >
+											21,757.00
+										</td>
+										<td class="table__td text-center"  >
+											511.31
+										</td>
+										<td class="table__td text-center"  >
+											Sell
+										</td>
+										<td class="table__td text-center"  >
+											No
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td"  >
+											<a href="/stocks/insideractivitytrader/chen-gloria-1102694" onclick="silentTrackPI()"onclick="silentTrackPI()"><strong>Chen Gloria</strong></a>
+										</td>
+										<td class="table__td text-center"  >
+											04/25/2021
+										</td>
+										<td class="table__td text-center"  >
+											43.00
+										</td>
+										<td class="table__td text-center"  >
+											11,547.00
+										</td>
+										<td class="table__td text-center"  >
+											513.57
+										</td>
+										<td class="table__td text-center"  >
+											Sell
+										</td>
+										<td class="table__td text-center"  >
+											No
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td"  >
+											<a href="/stocks/insideractivitytrader/murphy-john-francis-761794" onclick="silentTrackPI()"onclick="silentTrackPI()"><strong>Murphy John Francis</strong></a>
+										</td>
+										<td class="table__td text-center"  >
+											04/23/2021
+										</td>
+										<td class="table__td text-center"  >
+											312.00
+										</td>
+										<td class="table__td text-center"  >
+											22,725.00
+										</td>
+										<td class="table__td text-center"  >
+											515.84
+										</td>
+										<td class="table__td text-center"  >
+											Sell
+										</td>
+										<td class="table__td text-center"  >
+											No
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td"  >
+											<a href="/stocks/insideractivitytrader/murphy-john-francis-761794" onclick="silentTrackPI()"onclick="silentTrackPI()"><strong>Murphy John Francis</strong></a>
+										</td>
+										<td class="table__td text-center"  >
+											04/23/2021
+										</td>
+										<td class="table__td text-center"  >
+											383.00
+										</td>
+										<td class="table__td text-center"  >
+											22,407.00
+										</td>
+										<td class="table__td text-center"  >
+											515.84
+										</td>
+										<td class="table__td text-center"  >
+											Sell
+										</td>
+										<td class="table__td text-center"  >
+											No
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td"  >
+											<a href="/stocks/insideractivitytrader/chen-gloria-1102694" onclick="silentTrackPI()"onclick="silentTrackPI()"><strong>Chen Gloria</strong></a>
+										</td>
+										<td class="table__td text-center"  >
+											04/23/2021
+										</td>
+										<td class="table__td text-center"  >
+											156.00
+										</td>
+										<td class="table__td text-center"  >
+											11,590.00
+										</td>
+										<td class="table__td text-center"  >
+											515.84
+										</td>
+										<td class="table__td text-center"  >
+											Sell
+										</td>
+										<td class="table__td text-center"  >
+											No
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td"  >
+											<a href="/stocks/insideractivitytrader/chen-gloria-1102694" onclick="silentTrackPI()"onclick="silentTrackPI()"><strong>Chen Gloria</strong></a>
+										</td>
+										<td class="table__td text-center"  >
+											04/23/2021
+										</td>
+										<td class="table__td text-center"  >
+											127.00
+										</td>
+										<td class="table__td text-center"  >
+											11,431.00
+										</td>
+										<td class="table__td text-center"  >
+											515.84
+										</td>
+										<td class="table__td text-center"  >
+											Sell
+										</td>
+										<td class="table__td text-center"  >
+											No
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td"  >
+											<a href="/stocks/insideractivitytrader/rao-dana-1056738" onclick="silentTrackPI()"onclick="silentTrackPI()"><strong>Rao Dana</strong></a>
+										</td>
+										<td class="table__td text-center"  >
+											04/23/2021
+										</td>
+										<td class="table__td text-center"  >
+											223.00
+										</td>
+										<td class="table__td text-center"  >
+											19,219.00
+										</td>
+										<td class="table__td text-center"  >
+											515.84
+										</td>
+										<td class="table__td text-center"  >
+											Sell
+										</td>
+										<td class="table__td text-center"  >
+											No
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td"  >
+											<a href="/stocks/insideractivitytrader/rao-dana-1056738" onclick="silentTrackPI()"onclick="silentTrackPI()"><strong>Rao Dana</strong></a>
+										</td>
+										<td class="table__td text-center"  >
+											04/23/2021
+										</td>
+										<td class="table__td text-center"  >
+											255.00
+										</td>
+										<td class="table__td text-center"  >
+											18,992.00
+										</td>
+										<td class="table__td text-center"  >
+											515.84
+										</td>
+										<td class="table__td text-center"  >
+											Sell
+										</td>
+										<td class="table__td text-center"  >
+											No
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td"  >
+											<a href="/stocks/insideractivitytrader/parasnis-abhay-971076" onclick="silentTrackPI()"onclick="silentTrackPI()"><strong>Parasnis Abhay</strong></a>
+										</td>
+										<td class="table__td text-center"  >
+											04/23/2021
+										</td>
+										<td class="table__td text-center"  >
+											312.00
+										</td>
+										<td class="table__td text-center"  >
+											40,455.00
+										</td>
+										<td class="table__td text-center"  >
+											515.84
+										</td>
+										<td class="table__td text-center"  >
+											Sell
+										</td>
+										<td class="table__td text-center"  >
+											No
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td"  >
+											<a href="/stocks/insideractivitytrader/parasnis-abhay-971076" onclick="silentTrackPI()"onclick="silentTrackPI()"><strong>Parasnis Abhay</strong></a>
+										</td>
+										<td class="table__td text-center"  >
+											04/23/2021
+										</td>
+										<td class="table__td text-center"  >
+											383.00
+										</td>
+										<td class="table__td text-center"  >
+											40,137.00
+										</td>
+										<td class="table__td text-center"  >
+											515.84
+										</td>
+										<td class="table__td text-center"  >
+											Sell
+										</td>
+										<td class="table__td text-center"  >
+											No
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td"  >
+											<a href="/stocks/insideractivitytrader/narayen-shantanu-420408" onclick="silentTrackPI()"onclick="silentTrackPI()"><strong>NARAYEN SHANTANU</strong></a>
+										</td>
+										<td class="table__td text-center"  >
+											04/23/2021
+										</td>
+										<td class="table__td text-center"  >
+											870.00
+										</td>
+										<td class="table__td text-center"  >
+											367,531.00
+										</td>
+										<td class="table__td text-center"  >
+											515.84
+										</td>
+										<td class="table__td text-center"  >
+											Sell
+										</td>
+										<td class="table__td text-center"  >
+											No
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td"  >
+											<a href="/stocks/insideractivitytrader/narayen-shantanu-420408" onclick="silentTrackPI()"onclick="silentTrackPI()"><strong>NARAYEN SHANTANU</strong></a>
+										</td>
+										<td class="table__td text-center"  >
+											04/23/2021
+										</td>
+										<td class="table__td text-center"  >
+											1,278.00
+										</td>
+										<td class="table__td text-center"  >
+											366,645.00
+										</td>
+										<td class="table__td text-center"  >
+											515.84
+										</td>
+										<td class="table__td text-center"  >
+											Sell
+										</td>
+										<td class="table__td text-center"  >
+											No
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td"  >
+											<a href="/stocks/insideractivitytrader/belsky-scott-1039383" onclick="silentTrackPI()"onclick="silentTrackPI()"><strong>Belsky Scott</strong></a>
+										</td>
+										<td class="table__td text-center"  >
+											04/23/2021
+										</td>
+										<td class="table__td text-center"  >
+											335.00
+										</td>
+										<td class="table__td text-center"  >
+											28,415.00
+										</td>
+										<td class="table__td text-center"  >
+											515.84
+										</td>
+										<td class="table__td text-center"  >
+											Sell
+										</td>
+										<td class="table__td text-center"  >
+											No
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td"  >
+											<a href="/stocks/insideractivitytrader/belsky-scott-1039383" onclick="silentTrackPI()"onclick="silentTrackPI()"><strong>Belsky Scott</strong></a>
+										</td>
+										<td class="table__td text-center"  >
+											04/23/2021
+										</td>
+										<td class="table__td text-center"  >
+											411.00
+										</td>
+										<td class="table__td text-center"  >
+											28,120.00
+										</td>
+										<td class="table__td text-center"  >
+											515.84
+										</td>
+										<td class="table__td text-center"  >
+											Sell
+										</td>
+										<td class="table__td text-center"  >
+											No
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td"  >
+											<a href="/stocks/insideractivitytrader/garfield-mark-s.-929802" onclick="silentTrackPI()"onclick="silentTrackPI()"><strong>Garfield Mark S.</strong></a>
+										</td>
+										<td class="table__td text-center"  >
+											04/23/2021
+										</td>
+										<td class="table__td text-center"  >
+											17.00
+										</td>
+										<td class="table__td text-center"  >
+											544.00
+										</td>
+										<td class="table__td text-center"  >
+											515.84
+										</td>
+										<td class="table__td text-center"  >
+											Sell
+										</td>
+										<td class="table__td text-center"  >
+											No
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td"  >
+											<a href="/stocks/insideractivitytrader/lewnes-ann-925484" onclick="silentTrackPI()"onclick="silentTrackPI()"><strong>Lewnes Ann</strong></a>
+										</td>
+										<td class="table__td text-center"  >
+											04/23/2021
+										</td>
+										<td class="table__td text-center"  >
+											267.00
+										</td>
+										<td class="table__td text-center"  >
+											26,179.00
+										</td>
+										<td class="table__td text-center"  >
+											515.84
+										</td>
+										<td class="table__td text-center"  >
+											Sell
+										</td>
+										<td class="table__td text-center"  >
+											No
+										</td>
+						</tr>
+			</tbody>
+		</table>
+	</div>
+
+
+
+
+
+</div>
+									<div class="spacer-50 mobile-spacer-25"></div>
+
+<div class="graviton">
+			<h2 class="header-underline">Dividend Calendar Adobe</h2>
+
+	<div class="grid--vertical-scrolling">
+		<table class="table table--fixed table--suppresses-line-breaks" data-table-filter-table="">
+				<colgroup>
+						<col />
+						<col />
+						<col />
+						<col />
+						<col />
+						<col />
+				</colgroup>
+				<thead class="table__thead">
+					<tr class="table__tr">
+							<th class="table__th" width="10%" >
+Date							</th>
+							<th class="table__th" width="25%" >
+Name							</th>
+							<th class="table__th text-center" width="15%" >
+Price *							</th>
+							<th class="table__th text-center" width="9%" >
+Dividend							</th>
+							<th class="table__th text-center" width="10%" >
+Yield *							</th>
+							<th class="table__th" width="3%" >
+							</th>
+					</tr>
+				</thead>
+			<tbody class="table__tbody">
+						<tr class="table__tr">
+										<td class="table__td" width="20%" >
+											04/08/2020
+										</td>
+										<td class="table__td"  >
+											<a href="/stocks/adbe-stock" title="Adobe Inc. stock">Adobe Inc.</a>
+										</td>
+										<td class="table__td text-center"  >
+											318.70
+										</td>
+										<td class="table__td text-center"  >
+											-
+										</td>
+										<td class="table__td text-center"  >
+											-
+										</td>
+										<td class="table__td"  >
+											<div class="image_icon_price_grey"></div>
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td" width="20%" >
+											04/10/2019
+										</td>
+										<td class="table__td"  >
+											<a href="/stocks/adbe-stock" title="Adobe Inc. stock">Adobe Inc.</a>
+										</td>
+										<td class="table__td text-center"  >
+											271.90
+										</td>
+										<td class="table__td text-center"  >
+											-
+										</td>
+										<td class="table__td text-center"  >
+											-
+										</td>
+										<td class="table__td"  >
+											<div class="image_icon_price_grey"></div>
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td" width="20%" >
+											04/11/2018
+										</td>
+										<td class="table__td"  >
+											<a href="/stocks/adbe-stock" title="Adobe Inc. stock">Adobe Inc.</a>
+										</td>
+										<td class="table__td text-center"  >
+											226.96
+										</td>
+										<td class="table__td text-center"  >
+											-
+										</td>
+										<td class="table__td text-center"  >
+											-
+										</td>
+										<td class="table__td"  >
+											<div class="image_icon_price_grey"></div>
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td" width="20%" >
+											04/11/2017
+										</td>
+										<td class="table__td"  >
+											<a href="/stocks/adbe-stock" title="Adobe Inc. stock">Adobe Inc.</a>
+										</td>
+										<td class="table__td text-center"  >
+											129.38
+										</td>
+										<td class="table__td text-center"  >
+											-
+										</td>
+										<td class="table__td text-center"  >
+											-
+										</td>
+										<td class="table__td"  >
+											<div class="image_icon_price_grey"></div>
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td" width="20%" >
+											04/12/2016
+										</td>
+										<td class="table__td"  >
+											<a href="/stocks/adbe-stock" title="Adobe Inc. stock">Adobe Inc.</a>
+										</td>
+										<td class="table__td text-center"  >
+											94.53
+										</td>
+										<td class="table__td text-center"  >
+											-
+										</td>
+										<td class="table__td text-center"  >
+											-
+										</td>
+										<td class="table__td"  >
+											<div class="image_icon_price_grey"></div>
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td" width="20%" >
+											04/08/2015
+										</td>
+										<td class="table__td"  >
+											<a href="/stocks/adbe-stock" title="Adobe Inc. stock">Adobe Inc.</a>
+										</td>
+										<td class="table__td text-center"  >
+											76.33
+										</td>
+										<td class="table__td text-center"  >
+											-
+										</td>
+										<td class="table__td text-center"  >
+											-
+										</td>
+										<td class="table__td"  >
+											<div class="image_icon_price_grey"></div>
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td" width="20%" >
+											04/09/2014
+										</td>
+										<td class="table__td"  >
+											<a href="/stocks/adbe-stock" title="Adobe Inc. stock">Adobe Inc.</a>
+										</td>
+										<td class="table__td text-center"  >
+											61.49
+										</td>
+										<td class="table__td text-center"  >
+											-
+										</td>
+										<td class="table__td text-center"  >
+											-
+										</td>
+										<td class="table__td"  >
+											<div class="image_icon_price_grey"></div>
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td" width="20%" >
+											04/10/2013
+										</td>
+										<td class="table__td"  >
+											<a href="/stocks/adbe-stock" title="Adobe Inc. stock">Adobe Inc.</a>
+										</td>
+										<td class="table__td text-center"  >
+											45.22
+										</td>
+										<td class="table__td text-center"  >
+											-
+										</td>
+										<td class="table__td text-center"  >
+											-
+										</td>
+										<td class="table__td"  >
+											<div class="image_icon_price_grey"></div>
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td" width="20%" >
+											04/11/2012
+										</td>
+										<td class="table__td"  >
+											<a href="/stocks/adbe-stock" title="Adobe Inc. stock">Adobe Inc.</a>
+										</td>
+										<td class="table__td text-center"  >
+											33.55
+										</td>
+										<td class="table__td text-center"  >
+											-
+										</td>
+										<td class="table__td text-center"  >
+											-
+										</td>
+										<td class="table__td"  >
+											<div class="image_icon_price_grey"></div>
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td" width="20%" >
+											04/20/2011
+										</td>
+										<td class="table__td"  >
+											<a href="/stocks/adbe-stock" title="Adobe Inc. stock">Adobe Inc.</a>
+										</td>
+										<td class="table__td text-center"  >
+											33.48
+										</td>
+										<td class="table__td text-center"  >
+											-
+										</td>
+										<td class="table__td text-center"  >
+											-
+										</td>
+										<td class="table__td"  >
+											<div class="image_icon_price_grey"></div>
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td" width="20%" >
+											04/15/2010
+										</td>
+										<td class="table__td"  >
+											<a href="/stocks/adbe-stock" title="Adobe Inc. stock">Adobe Inc.</a>
+										</td>
+										<td class="table__td text-center"  >
+											34.00
+										</td>
+										<td class="table__td text-center"  >
+											-
+										</td>
+										<td class="table__td text-center"  >
+											-
+										</td>
+										<td class="table__td"  >
+											<div class="image_icon_price_grey"></div>
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td" width="20%" >
+											04/08/2008
+										</td>
+										<td class="table__td"  >
+											<a href="/stocks/adbe-stock" title="Adobe Inc. stock">Adobe Inc.</a>
+										</td>
+										<td class="table__td text-center"  >
+											36.32
+										</td>
+										<td class="table__td text-center"  >
+											-
+										</td>
+										<td class="table__td text-center"  >
+											-
+										</td>
+										<td class="table__td"  >
+											<div class="image_icon_price_grey"></div>
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td" width="20%" >
+											04/04/2007
+										</td>
+										<td class="table__td"  >
+											<a href="/stocks/adbe-stock" title="Adobe Inc. stock">Adobe Inc.</a>
+										</td>
+										<td class="table__td text-center"  >
+											42.61
+										</td>
+										<td class="table__td text-center"  >
+											-
+										</td>
+										<td class="table__td text-center"  >
+											-
+										</td>
+										<td class="table__td"  >
+											<div class="image_icon_price_red"></div>
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td" width="20%" >
+											03/27/2006
+										</td>
+										<td class="table__td"  >
+											<a href="/stocks/adbe-stock" title="Adobe Inc. stock">Adobe Inc.</a>
+										</td>
+										<td class="table__td text-center"  >
+											35.52
+										</td>
+										<td class="table__td text-center"  >
+											0.01
+										</td>
+										<td class="table__td text-center"  >
+											0.03
+										</td>
+										<td class="table__td"  >
+											<div class="image_icon_price_red"></div>
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td" width="20%" >
+											04/27/2005
+										</td>
+										<td class="table__td"  >
+											<a href="/stocks/adbe-stock" title="Adobe Inc. stock">Adobe Inc.</a>
+										</td>
+										<td class="table__td text-center"  >
+											29.23
+										</td>
+										<td class="table__td text-center"  >
+											0.03
+										</td>
+										<td class="table__td text-center"  >
+											0.10
+										</td>
+										<td class="table__td"  >
+											<div class="image_icon_price_grey"></div>
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td" width="20%" >
+											04/27/2004
+										</td>
+										<td class="table__td"  >
+											<a href="/stocks/adbe-stock" title="Adobe Inc. stock">Adobe Inc.</a>
+										</td>
+										<td class="table__td text-center"  >
+											20.86
+										</td>
+										<td class="table__td text-center"  >
+											0.03
+										</td>
+										<td class="table__td text-center"  >
+											0.15
+										</td>
+										<td class="table__td"  >
+											<div class="image_icon_price_grey"></div>
+										</td>
+						</tr>
+						<tr class="table__tr">
+										<td class="table__td" width="20%" >
+											04/18/2003
+										</td>
+										<td class="table__td"  >
+											<a href="/stocks/adbe-stock" title="Adobe Inc. stock">Adobe Inc.</a>
+										</td>
+										<td class="table__td text-center"  >
+											15.75
+										</td>
+										<td class="table__td text-center"  >
+											0.03
+										</td>
+										<td class="table__td text-center"  >
+											0.20
+										</td>
+										<td class="table__td"  >
+
+										</td>
+						</tr>
+			</tbody>
+		</table>
+	</div>
+
+
+
+
+
+			<div class="margin-top--large">*Price and Yield of the Respective Date</div>
+</div>
+									<div class="spacer-50 mobile-spacer-25"></div>
+
+<div class="graviton">
+		<h2 class="header-underline">
+			Adobe Inc. Calendar
+		</h2>
+	<div class="grid--vertical-scrolling">
+		<table class="table table--suppresses-line-breaks">
+			<thead class="table__thead">
+				<tr class="table__tr">
+					<th class="table__th">Event</th>
+					<th class="text-center table__th">Estimate</th>
+					<th class="text-center table__th">Info</th>
+					<th class="text-center table__th">Date</th>
+				</tr>
+			</thead>
+			<tbody class="table__tbody">
+					<tr class="table__tr">
+						<td class="table__td">Earnings Report</td>
+						<td class="text-center table__td">2.815 USD </td>
+						<td class="text-center table__td">Q2 2021 Earnings Release</td>
+						<td class="text-center table__td">06/17/2021</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td">Earnings Report</td>
+						<td class="text-center table__td">2.893 USD </td>
+						<td class="text-center table__td">Q3 2021 Earnings Release</td>
+						<td class="text-center table__td">09/21/2021</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td">Earnings Report</td>
+						<td class="text-center table__td">- </td>
+						<td class="text-center table__td">Q4 2021 Earnings Release</td>
+						<td class="text-center table__td">12/16/2021</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td">Earnings Report</td>
+						<td class="text-center table__td">- </td>
+						<td class="text-center table__td">Q1 2022 Earnings Release</td>
+						<td class="text-center table__td">03/17/2022</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td">Earnings Report</td>
+						<td class="text-center table__td">- </td>
+						<td class="text-center table__td">Q2 2022 Earnings Release</td>
+						<td class="text-center table__td">06/21/2022</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td">Earnings Report</td>
+						<td class="text-center table__td">- </td>
+						<td class="text-center table__td">Q3 2022 Earnings Release</td>
+						<td class="text-center table__td">09/20/2022</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td">Earnings Report</td>
+						<td class="text-center table__td">- </td>
+						<td class="text-center table__td">Q4 2022 Earnings Release</td>
+						<td class="text-center table__td">12/15/2022</td>
+					</tr>
+			</tbody>
+		</table>
+	</div>
+</div>
+
+									<div class="spacer-50 mobile-spacer-25"></div>
+<div class="graviton">
+	<h2 class="header-underline">Adobe Inc. Past Events</h2>
+	<div class="grid--vertical-scrolling">
+		<table class="table table--suppresses-line-breaks">
+			<thead class="table__thead">
+				<tr class="table__tr">
+					<th class="table__th">Event</th>
+					<th class="text-center table__th">Actual EPS</th>
+					<th class="text-center table__th">Info</th>
+					<th class="text-center table__th">Date</th>
+				</tr>
+			</thead>
+			<tbody class="table__tbody">
+					<tr class="table__tr">
+						<td class="table__td">Annual General Meeting </td>
+						<td class="text-center table__td">-</td>
+						<td class="text-center table__td">Annual General Meeting</td>
+						<td class="text-center table__td">04/20/2021</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td">Earnings Report </td>
+						<td class="text-center table__td">3.140 USD</td>
+						<td class="text-center table__td">Q1 2021 Earnings Release</td>
+						<td class="text-center table__td">03/23/2021</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td">Press Conference </td>
+						<td class="text-center table__td">-</td>
+						<td class="text-center table__td">-</td>
+						<td class="text-center table__td">12/10/2020</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td">Press Conference </td>
+						<td class="text-center table__td">-</td>
+						<td class="text-center table__td">-</td>
+						<td class="text-center table__td">09/15/2020</td>
+					</tr>
+			</tbody>
+		</table>
+	</div>
+</div>
+
+									<div class="spacer-50 mobile-spacer-25"></div>
+<div id='lgPositiondianomi'></div><div class='responsivePosition' id='dianomi'>
+			<script id="dianomi_context_script" src="https://www.dianomi.com/js/contextfeed.js?id=122"></script>
+			<div class="dianomi-ad-placeholder dianomi-ad-placeholder--left-quotes-detail dianomi_context" data-dianomi-context-id="122"></div>
+									<div class="spacer-50 mobile-spacer-25"></div>
+</div><div class="graviton">
+	<aside class="side-panel-right side-panel-right--no-scrolling" data-side-panel="addInstrument" data-add-instrument-form="addInstrument">
+
+		<header class="user-region__header">
+			<div class="user-region__close-button">
+				<button class="button button--icon-only button--border-hidden button--hover-blue button--size-large" data-side-panel-close="addInstrument">
+					<span class="icon icon-close"></span>
+				</button>
+			</div>
+			<div class="user-region__caption">
+				<a href="#" class="logo logo-markets-insider logo--size-auto" title="Insider">Insider</a>
+			</div>
+		</header>
+
+
+		<main class="user-region__content">
+			<div class="user-region__greeting">
+				<p class="spacer-zero text-center" data-add-instrument-text>Add instrument to watchlist</p>
+			</div>
+			<div class="user-region__actions grid grid__row">
+				<div class="grid__col--12">
+					<div class="select select--stretch" data-add-instrument-select>
+						<select class="select__list"></select>
+					</div>
+				</div>
+				<div class="grid__col--12 margin-top--small">
+					<button class="button button--stretch" data-side-panel-close="addInstrument">Cancel</button>
+				</div>
+				<div class="grid__col--12 margin-top--small">
+					<button class="button button--stretch button--primary" data-side-panel-close="addInstrument" data-add-instrument-submit>Add</button>
+				</div>
+			</div>
+		</main>
+	</aside>
+</div>
+
+
+</div><div class="site-content__col site-content__col--right"><div id='lgPositionsnapshot'></div><div class='responsivePosition' id='snapshot'>
+<div class="graviton">
+	<h2 class="header-underline header-underline--no-margin-top">Stock Snapshot</h2>
+	<div class="snapshot">
+			<div class="snapshot__data-item">
+				541.26
+				<div class="snapshot__header">Prev. Close</div>
+			</div>
+			<div class="snapshot__data-item">
+				545.11
+				<div class="snapshot__header">Open</div>
+			</div>
+			<div class="snapshot__data-item">
+				259.11 B
+				<div class="snapshot__header">Market Cap</div>
+			</div>
+			<div class="snapshot__data-item">
+				478.00 M
+				<div class="snapshot__header">Number of Shares</div>
+			</div>
+					<div class="snapshot__line"></div>
+		<div id="snapshot-highlow" class="snapshot__highlow-container">
+				<div class="snapshot__highlow">
+					<div class="snapshot__data-item snapshot__data-item--small">
+						543.25
+						<div class="snapshot__header">Day Low</div>
+					</div>
+					<div class="snapshot__data-item snapshot__data-item--small snapshot__data-item--right">
+						561.36
+						<div class="snapshot__header">Day High</div>
+					</div>
+					<div class="progress progress--69-percent">
+						<div class="progress__bar"></div>
+						<div class="progress__position">
+							<div class="progress__marker"></div>
+							<div class="progress__label snapshot__price-label">555.68</div>
+						</div>
+					</div>
+				</div>
+							<div class="snapshot__highlow">
+					<div class="snapshot__data-item snapshot__data-item--small">
+						395.41
+						<div class="snapshot__header">52 Week Low</div>
+					</div>
+					<div class="snapshot__data-item snapshot__data-item--small snapshot__data-item--right">
+						561.36
+						<div class="snapshot__header">52 Week High</div>
+					</div>
+					<div class="progress progress--97-percent">
+						<div class="progress__bar"></div>
+						<div class="progress__position">
+							<div class="progress__marker"></div>
+							<div class="progress__label snapshot__price-label">555.68</div>
+						</div>
+					</div>
+				</div>
+		</div>
+						<div class="snapshot__line"></div>
+			<div class="snapshot__data-item">
+				47.10
+				<div class="snapshot__header">P/E Ratio</div>
+			</div>
+			<div class="snapshot__data-item">
+				99.57
+				<div class="snapshot__header">Free Float in %</div>
+			</div>
+			<div class="snapshot__data-item">
+				11.87
+				<div class="snapshot__header">EPS 2021</div>
+			</div>
+			<div class="snapshot__data-item">
+				32.31
+				<div class="snapshot__header">Book Value per Share</div>
+			</div>
+			<div class="snapshot__data-item">
+				13.60
+				<div class="snapshot__header">Cash Flow per Share</div>
+			</div>
+	</div>
+</div>
+									<div class="spacer-50 mobile-spacer-25"></div>
+</div>
+		<div class="htl-ad"
+				 data-unit="Markets-Insider/Stocks/Quote"
+				 data-sizes="0x0:|768x0:728x90,300x250,600x480,800x480|960x0:"
+				 data-prebid="0x0:|768x0:Stocks/Quote/leaderboard_flex|960x0:"
+				 data-targeting='{"region":"Desktop In Post Ad","amp_check":"false"}'
+				 data-refresh="viewable"
+				 data-refresh-secs=""></div>
+
+		<div class="htl-ad-placeholder htl-ad-placeholder--mobileInPost htl-ad"
+				 data-unit="Markets-Insider/Stocks/Quote"
+				 data-sizes="0x0:300x50,300x100,300x150,320x50,320x100,320x150,300x250|768x0:"
+				 data-prebid="0x0:Stocks/Quote/medrec_flex|768x0:"
+				 data-targeting='{"region":"Mobile In Post Ad","amp_check":"false"}'
+				 data-refresh="viewable"
+				 data-refresh-secs=""></div>
+
+		<div class="htl-ad-placeholder htl-ad-placeholder--upper300 htl-ad"
+				 data-unit="Markets-Insider/Stocks/Quote"
+				 data-sizes="0x0:|1200x0:300x250,300x600"
+				 data-prebid="0x0:|1200x0:Stocks/Quote/halfpage_flex"
+				 data-targeting='{"region":"Upper 300","amp_check":"false"}'
+				 data-refresh="viewable"
+				 data-refresh-secs=""></div>
+	<div class="graviton">
+			<h2 class="header-underline">
+Profile Adobe            </h2>
+
+			<div class="instrument-description instrument-description--profile">
+				Adobe, Inc. engages in the provision of digital marketing and media solutions. It operates through the following segments: Digital Media, Digital Experience, and Publishing. The Digital Media segment offers creative cloud services, which allow members to download and install the latest versions of products, such as Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, Adobe Photoshop Light room and Adobe InDesign, as well as utilize other tools, such as Adobe Acrobat. The Digital Experience segment provides solutions, including analytics, social marketing, targeting, media optimization, digital experience management, and cross-channel campaign management, as well as premium video delivery and monetization. The Publishing segment includes legacy products and services for eLearning solutions, technical document publishing, web application development, and high-end printing. The company was founded by Charles M. Geschke and John E.
+			</div>
+
+	</div>
+									<div class="spacer-50 mobile-spacer-25"></div>
+<!--#EMPTYRESPONSE#-->									<div class="spacer-50 mobile-spacer-25"></div>
+
+		<div class="htl-ad"
+				 data-unit="Markets-Insider/Stocks/Quote"
+				 data-sizes="0x0:|768x0:728x90,300x250,600x480,800x480|960x0:"
+				 data-prebid="0x0:|768x0:Stocks/Quote/leaderboard_flex|960x0:"
+				 data-targeting='{"region":"Desktop In Post Ad","amp_check":"false"}'
+				 data-refresh="viewable"
+				 data-refresh-secs=""></div>
+
+		<div class="htl-ad-placeholder htl-ad-placeholder--mobileInPost htl-ad"
+				 data-unit="Markets-Insider/Stocks/Quote"
+				 data-sizes="0x0:300x50,300x100,300x150,320x50,320x100,320x150,300x250|768x0:"
+				 data-prebid="0x0:Stocks/Quote/medrec_flex|768x0:"
+				 data-targeting='{"region":"Mobile In Post Ad","amp_check":"false"}'
+				 data-refresh="viewable"
+				 data-refresh-secs=""></div>
+
+		<div class="htl-ad-placeholder htl-ad-placeholder--upper300 htl-ad"
+				 data-unit="Markets-Insider/Stocks/Quote"
+				 data-sizes="0x0:|1200x0:300x250,300x600"
+				 data-prebid="0x0:|1200x0:Stocks/Quote/halfpage_flex"
+				 data-targeting='{"region":"Upper 300","amp_check":"false"}'
+				 data-refresh="viewable"
+				 data-refresh-secs=""></div>
+
+
+<div class="graviton">
+    <h2 class="header-underline">Moody's Rating</h2>
+    <div class="moodys-rating">
+        <span class="moodys-rating__label">Risk</span>
+        <ul class="moodys-rating__legend">
+            <li class="moodys-rating__point">Low</li>
+            <li class="moodys-rating__point moodys-rating__point--medium">Medium</li>
+            <li class="moodys-rating__point moodys-rating__point--high">High</li>
+        </ul>
+        <div class="moodys-rating__container">
+            <div class="moodys-rating__chart logo logo-moodys-rating">
+                <div class="icon icon-moodys-rating-arrow moodys-rating__arrow moodys-rating__arrow--rating-2"></div>
+            </div>
+            <span class="moodys-rating__rating">2</span>
+        </div>
+        <div class="moodys-rating__description">
+            Moody’s Daily Credit Risk Score is a 1-10 score of a company’s credit risk, based on an analysis of the firm’s
+            balance sheet and inputs from the stock market. The score provides a forward-looking, one-year measure of credit
+            risk, allowing investors to make better decisions and streamline their work ow. Updated daily, it takes into
+            account day-to-day movements in market value compared to a company’s liability structure.
+        </div>
+    </div>
+</div>
+
+
+									<div class="spacer-50 mobile-spacer-25"></div>
+
+		<div class="htl-ad"
+				 data-unit="Markets-Insider/Stocks/Quote"
+				 data-sizes="0x0:|768x0:728x90,300x250,600x480,800x480|960x0:"
+				 data-prebid="0x0:|768x0:Stocks/Quote/leaderboard_flex|960x0:"
+				 data-targeting='{"region":"Desktop In Post Ad","amp_check":"false"}'
+				 data-refresh="viewable"
+				 data-refresh-secs=""></div>
+
+		<div class="htl-ad-placeholder htl-ad-placeholder--mobileInPost htl-ad"
+				 data-unit="Markets-Insider/Stocks/Quote"
+				 data-sizes="0x0:300x50,300x100,300x150,320x50,320x100,320x150,300x250|768x0:"
+				 data-prebid="0x0:Stocks/Quote/medrec_flex|768x0:"
+				 data-targeting='{"region":"Mobile In Post Ad","amp_check":"false"}'
+				 data-refresh="viewable"
+				 data-refresh-secs=""></div>
+
+		<div class="htl-ad-placeholder htl-ad-placeholder--upper300 htl-ad"
+				 data-unit="Markets-Insider/Stocks/Quote"
+				 data-sizes="0x0:|1200x0:300x250,300x600"
+				 data-prebid="0x0:|1200x0:Stocks/Quote/halfpage_flex"
+				 data-targeting='{"region":"Upper 300","amp_check":"false"}'
+				 data-refresh="viewable"
+				 data-refresh-secs=""></div>
+	<div class="graviton">
+		<h2 class="header-underline">Shareholder</h2>
+
+		<table class="table">
+			<colgroup>
+				<col class="width-80-percent" />
+				<col />
+			</colgroup>
+			<thead class="table__thead">
+				<tr class="table__tr">
+					<th class="table__th table--allow-wrap">Owner</th>
+					<th class="table__th text-right">in %</th>
+				</tr>
+			</thead>
+			<tbody class="table__tbody">
+					<tr class="table__tr">
+						<td class="table__td table--allow-wrap">Freefloat</td>
+						<td class="table__td text-right">99.57</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td table--allow-wrap">The Vanguard Group, Inc.</td>
+						<td class="table__td text-right">7.98</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td table--allow-wrap">Vanguard Group, Inc. (Subfiler)</td>
+						<td class="table__td text-right">7.53</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td table--allow-wrap">Fidelity Management &amp; Research Co. LLC</td>
+						<td class="table__td text-right">4.70</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td table--allow-wrap">State Street Corp.</td>
+						<td class="table__td text-right">3.93</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td table--allow-wrap">Vanguard Total Stock Market Index Fund</td>
+						<td class="table__td text-right">2.83</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td table--allow-wrap">BlackRock Fund Advisors</td>
+						<td class="table__td text-right">2.77</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td table--allow-wrap">BlackRock Institutional Trust Co. NA</td>
+						<td class="table__td text-right">2.39</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td table--allow-wrap">Vanguard 500 Index Fund</td>
+						<td class="table__td text-right">2.06</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td table--allow-wrap">Geode Capital Management LLC</td>
+						<td class="table__td text-right">1.68</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td table--allow-wrap">PRIMECAP Management Co.</td>
+						<td class="table__td text-right">1.61</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td table--allow-wrap">Janus Henderson Group Plc (Subfiler)</td>
+						<td class="table__td text-right">1.52</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td table--allow-wrap">Jennison Associates LLC</td>
+						<td class="table__td text-right">1.34</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td table--allow-wrap">Fidelity Contrafund</td>
+						<td class="table__td text-right">1.27</td>
+					</tr>
+					<tr class="table__tr">
+						<td class="table__td table--allow-wrap">Polen Capital Management LLC</td>
+						<td class="table__td text-right">1.26</td>
+					</tr>
+			</tbody>
+		</table>
+		<div class="instrument-description margin-top--small">
+			Shareholder percentage totals can add to more than 100% because some holders are included in the free float.
+		</div>
+	</div>
+	<div class="spacer-50 mobile-spacer-25"></div>
+	<div class="graviton">
+		<h2 class="header-underline">Management</h2>
